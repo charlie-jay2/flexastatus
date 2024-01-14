@@ -2,7 +2,7 @@ title: Flexa Services
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://flexa-status.netlify.app/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
