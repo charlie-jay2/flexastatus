@@ -9,6 +9,6 @@ pin: false
 resolvedWhen: 2024-01-14T13:00:49.749Z
 affected:
   - Dashboard
-severity: down
+severity: notice
 ---
 *Notification* - We are working on making our Dashboard at this moment in time. Therefore it is currently in a Disrupted State
