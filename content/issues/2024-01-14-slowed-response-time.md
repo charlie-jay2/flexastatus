@@ -15,3 +15,5 @@ affected:
 severity: disrupted
 ---
 *Investigating* - We are investigating a potential issue that might affect the response time of our bot to client.
+
+*Investigating* - We have found the root cause to the issue and the development team are working towards bringing Flexa back to it's normal state.
