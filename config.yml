@@ -43,8 +43,6 @@ params:
       category: Cluster
     - name: Discord API
       category: Cluster
-    - name: Dashboard
-      category: Cluster
     - name: General Services
       category: Cluster
   dateFormat: January 2, 2006 at 3:04 PM UTC
