@@ -52,6 +52,7 @@ params:
   logo: /img/new-project-3-.png
   incidentPostsPerPage: 3
   googleAnalytics: UA-00000000-1
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -64,7 +65,7 @@ params:
     - name: Cluster
       description: ""
       closed: false
-      untitled: false
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
