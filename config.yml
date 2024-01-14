@@ -48,7 +48,7 @@ params:
     - name: General Services
       category: Cluster
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#3e97d8"
+  brand: "#2d3e4c"
   enableLastMod: true
   headerTextColor: white
   logo: /img/new-project-3-.png
