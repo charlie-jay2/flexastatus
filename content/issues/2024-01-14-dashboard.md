@@ -5,7 +5,7 @@ date: 2024-01-14T13:00:49.732Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2024-01-14T13:00:49.749Z
 affected:
   - Dashboard
