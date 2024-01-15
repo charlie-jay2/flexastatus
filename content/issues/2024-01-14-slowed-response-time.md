@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-01-14T18:05:44.659Z
+resolvedWhen: 2024-01-15T17:09:54.333Z
 affected:
   - Frontend API
   - Backup Gateway
