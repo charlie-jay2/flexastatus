@@ -2,10 +2,10 @@
 section: issue
 title: Slowed Response Time
 date: 2024-01-14T18:04:31.001Z
-resolved: false
+resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-01-14T18:05:44.659Z
 affected:
   - Frontend API
@@ -17,3 +17,5 @@ severity: disrupted
 *Investigating* - We are investigating a potential issue that might affect the response time of our bot to client. - 6:04PM UTC
 
 *Investigating* - We have found the root cause to the issue and the development team are working towards bringing Flexa back to it's normal state. - 6:49PM UTC
+
+*﻿Resolved* - We have restored a previous save of data and pushed that onto the server which has resolved the issue with slow response times.
